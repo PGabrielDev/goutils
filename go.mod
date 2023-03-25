@@ -1,4 +1,4 @@
-module github.com/PGabrielDev/pggm-goutils
+module github.com/PGabrielDev/goutils
 
 go 1.20
 
